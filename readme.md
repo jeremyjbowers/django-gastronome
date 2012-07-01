@@ -4,9 +4,7 @@
 |  | |_ |   /  /_\  \       \   \       |  |     |      /     |  |  |  | |  . `  | |  |  |  | |  |\/|  | |   __|  
 |  |__| |  /  _____  \  .----)   |      |  |     |  |\  \----.|  `--'  | |  |\   | |  `--'  | |  |  |  | |  |____ 
  \______| /__/     \__\ |_______/       |__|     | _| `._____| \______/  |__| \__|  \______/  |__|  |__| |_______|
-                                                                                                                  
-
-# django-gastronome
+                                                                                                                  # django-gastronome
 
 Django-Gastronome is a series of lightweight apps to take the typical food blog to the next (data) level.
 
